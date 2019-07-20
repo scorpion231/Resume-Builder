@@ -1,0 +1,7 @@
+our project is combination of simple jsp & html page which takes input from user in various aspects like,
+	personal details,
+	educational details,
+	experience details,
+	book/journals details,
+	expertActivity/membeership details,
+	participation/project/otherAchievement details etc.
