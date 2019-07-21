@@ -5,3 +5,8 @@ our project is combination of simple jsp & html page which takes input from user
 	book/journals details,
 	expertActivity/membeership details,
 	participation/project/otherAchievement details etc.
+
+Project details :-
+	1) index.jsp
+	2) ViewPreview.jsp
+	3) ViewResume.jsp
